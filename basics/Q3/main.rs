@@ -1,3 +1,5 @@
+use std::io;
+
 fn main() {
     const PI: f64 = 22.0 / 7.0; 
     let mut input = String::new();
