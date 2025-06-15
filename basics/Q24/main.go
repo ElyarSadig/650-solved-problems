@@ -16,5 +16,4 @@ func main() {
 	fmt.Scan(&n)
 	acceleration := (k - x) * 60 / n
 	fmt.Println("acceleration is", acceleration)
-
 }
